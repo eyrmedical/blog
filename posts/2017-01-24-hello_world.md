@@ -1,6 +1,6 @@
 ---
-title: Hello World
 published: true
+title: Hello World
 language: en
 ---
 
