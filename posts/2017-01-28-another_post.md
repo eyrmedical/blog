@@ -1,5 +1,7 @@
-published	title	language
-true
-Hello World
-en
-A new blog post.
+---
+published: true
+title: Hello World
+language: en
+---
+
+Another blog post.
