@@ -1,6 +1,6 @@
 ---
 published: true
-title: Hello World
+title: Another post
 language: en
 ---
 
