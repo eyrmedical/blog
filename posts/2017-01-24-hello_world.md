@@ -1,16 +1,14 @@
 ---
 published: true
-title: Hello World
+title: What’s the deal with “Eyr”?
 language: en
-date: 2017-02-24
+date: 2017-01-13
 ---
 
-# Hello World
+# What’s the deal with “Eyr”?
 
-Lorem ipsum Aliqua sunt adipisicing ut reprehenderit eiusmod laborum consectetur Excepteur magna dolore in cillum anim exercitation mollit velit sit ut dolore laboris ullamco enim ullamco deserunt dolor irure fugiat labore incididunt dolor incididunt ut est nostrud sunt anim enim cillum non adipisicing amet quis ut consequat nostrud nostrud eu culpa id incididunt occaecat sit nulla veniam exercitation in id do mollit ut fugiat dolor eu veniam quis anim ut exercitation enim aliquip aute commodo.
+Here at Eyr Medical we are proud of our Norwegian and Scandinavian roots. But we are often asked where our name comes from, because even in Norwegian, it is less known. We think of the name Eyr as a tribute to Old Norse tales, which include stories of various gods and goddesses during the pagan period in the Nordics. Many of their stories continue to be told today in Scandinavian Folklore.
 
-Dolore Ut consectetur enim quis incididunt elit reprehenderit mollit do ut fugiat anim enim reprehenderit cillum nulla aliquip id quis exercitation exercitation reprehenderit in voluptate Excepteur laborum enim cupidatat aliquip do do sed sed aliquip sed consequat qui non sit.
+The name Eyr is a variation of the Norse Goddess Eir — the goddess of healing. The name means help, mercy, protection and peace. Eyr was associated with medical skill, and as the legend goes, she lived atop Lyfjaberg, or the “hill of healing” surrounded by her helpful spirits. She was also respected as a life giver as she often presided over childbirth.
 
-Aliqua nostrud aliqua reprehenderit in in enim labore id nulla sit velit quis commodo minim sint amet dolor dolore reprehenderit veniam anim quis magna amet sed laboris ex dolore esse nulla sit tempor enim commodo incididunt amet consectetur eiusmod sint anim non commodo mollit cupidatat est est officia anim cillum sed adipisicing
-
-Laboris eu do eu ea tempor proident incididunt nostrud cupidatat mollit in Ut officia laborum dolore culpa amet consequat amet incididunt sint Duis qui laborum nostrud aute quis irure elit non non officia sit esse eu dolore cillum reprehenderit officia labore sint dolor Ut eiusmod nulla irure esse consectetur sunt ad nisi culpa culpa in magna reprehenderit magna tempor mollit magna id velit cillum reprehenderit do ad proident dolor dolor aliqua in amet in officia dolore qui irure aliqua veniam nulla.
+Eyr strives to take on the energy and essence of Eyr the Goddess in our company and continue on the legacy of health, protection and service.
