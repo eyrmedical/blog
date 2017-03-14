@@ -25,3 +25,4 @@
     * The image_desc doubles as the image alt text.
 5. Replace `paste_post_content_here` with the markdown formatted post.
     * Markdown also supports HTML so it's possible to add embedded HTML (such as YouTube videos) or HTML styling.
+6. Our website updates automatically when you click `Commit changes`. It might take a few seconds to parse all the posts.
