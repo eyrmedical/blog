@@ -1,4 +1,4 @@
-# How to write a post
+# How to add a post
 
 1. Click `Create new file` on this page
 2. Give the file a name
