@@ -9,7 +9,7 @@
   ```
   ---
   published: false
-  title: The post title
+  title: What's the deal with "Eyr"?
   description: The story behind the name "Eyr" and it's origin in Norse mythology.
   language: en
   date: 2017-01-13
