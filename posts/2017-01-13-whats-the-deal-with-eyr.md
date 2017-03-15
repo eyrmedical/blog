@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: What’s the deal with “Eyr”?
 description: The story behind the name "Eyr" and it's origin in Norse mythology.
 language: en
