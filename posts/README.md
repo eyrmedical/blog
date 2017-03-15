@@ -2,7 +2,7 @@
 
 1. Click `Create new file` on this page
 2. Give the file a name
-    * Names should start with date and end with the post title `YYYY-MM-DD-put-descriptive-title-here`
+    * Names should start with date and end with the post title `YYYY-MM-DD-put-descriptive-title-here.md`
     * Names must be unique - they determine the final URL of the post
     * Do not use special characters in file name (no ÆØÅ or symbols except - or _ ).
 3. Copy this template to file contents
