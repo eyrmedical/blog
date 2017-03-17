@@ -14,7 +14,7 @@ image_desc: Menglad surrounded by her nine maidens including Eir
 
 Norge har 5 millioner innbyggere, spredt over nesten 400,000 kvadratkilometer, noe som gjør landet til et av europas mest spredt befolkede land. På grunn av dette har Norge en ujevn fordeling av helsetilbud fra by til bygd, i tillegg til lav kapasitet for leger i praksis. I de siste årene har den lange reiseveien for pasienter i distriktene blitt et problem da sykehus med spesialisering har blitt mer og mer sentralisert, og mindre sykehus har blitt lagt ned. Norge har gjort mye den siste tiden for å bedre tilgangen til helsetjenester. Vi i Eyr mener at økt digitalisering er sentralt i løsningen for å gi distriktene bedre tilgang til helsehjelp.
 
-Mange metoder har blitt prøvd i løpet av årene for å fremme bedre fordelingen og tilgangen til helsetjenester i Norge.
+Mange metoder har blitt prøvd i løpet av [årene](https://vg.no) for å fremme bedre fordelingen og tilgangen til helsetjenester i Norge.
 
 - En av disse var å utvide muligheten for utdanning innen medisin ved å starte Norges Arktiske Universitet i Tromsø. Et praksisprogram ble også påbegynt, noe som inkluderte praksis i 18 måneder ved et sykehus hvor de hadde ledige stillinger, ofte i distriktene. Man håpte med denne taktikken at fremtidige helsearbeidere ville bosette seg i bygder nær disse sykehusene hvor det var mulighet å få jobb og praksis. Det endte gjerne opp med en fulltidsstilling, og mer sysselsetting på distriktssykehusene. 
 - For å møte den lave kapasiteten på legeutdanning i Norge tilbyr myndighetene også stipend og lån til norske studenter slik at de kan studere i utlandet. Vi har også tidligere åpnet opp for at svenske sykepleiere kan få lisens i Norge. 
