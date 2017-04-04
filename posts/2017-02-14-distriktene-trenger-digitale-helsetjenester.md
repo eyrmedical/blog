@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Distriktene trenger digitale helsetjenester
 description: Digitalisering vil bedre tilgang til helsetjenester i distriktene.
 language: no
