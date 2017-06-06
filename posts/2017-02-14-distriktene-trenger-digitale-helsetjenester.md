@@ -10,8 +10,6 @@ image_desc: Norge har en ujevn fordeling av helsetilbud fra by til bygd
 
 # Distriktene trenger digitale helsetjenester
 
-## Digitalisering vil bedre tilgang til helsetjenester i distriktene.
-
 Norge har 5 millioner innbyggere, spredt over nesten 400,000 kvadratkilometer, noe som gjør landet til et av europas mest spredt befolkede land. På grunn av dette har Norge en ujevn fordeling av helsetilbud fra by til bygd, i tillegg til lav kapasitet for leger i praksis. I de siste årene har den lange reiseveien for pasienter i distriktene blitt et problem da sykehus med spesialisering har blitt mer og mer sentralisert, og mindre sykehus har blitt lagt ned. Norge har gjort mye den siste tiden for å bedre tilgangen til helsetjenester. Vi i [Eyr](https://eyr.md/) mener at økt digitalisering er sentralt i løsningen for å gi distriktene bedre tilgang til helsehjelp.
 
 Mange metoder har blitt prøvd i løpet av årene for å fremme bedre fordelingen og tilgangen til helsetjenester i Norge.
