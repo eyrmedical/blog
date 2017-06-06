@@ -4,7 +4,7 @@ title: Distriktene trenger digitale helsetjenester
 description: Digitalisering vil bedre tilgang til helsetjenester i distriktene.
 language: no
 date: 2017-02-14
-image: https://res.cloudinary.com/eyr/image/upload/v1489571586/90kxrqksmc-asgeir-pall-juliusson_o5otwk.jpg
+image: https://res.cloudinary.com/eyr/image/upload/c_scale,w_1600/c_crop,h_900/v1489571586/90kxrqksmc-asgeir-pall-juliusson_o5otwk.jpg
 image_desc: Norge har en ujevn fordeling av helsetilbud fra by til bygd
 ---
 
