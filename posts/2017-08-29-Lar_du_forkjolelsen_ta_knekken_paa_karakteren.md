@@ -1,7 +1,7 @@
 ---
 published: true
 title: Lar du forkjølelsen ta knekken på karakteren?
-description: Legeerklæring kan over videosamtale
+description: Legeerklæring over videosamtale på Eyr Online Doktor
 language: no
 date: 2017-08-29
 ---
