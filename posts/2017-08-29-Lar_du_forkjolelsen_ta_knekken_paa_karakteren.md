@@ -2,7 +2,7 @@
 published: true
 title: Lar du forkjølelsen ta knekken på karakteren?
 description: Legeerklæring kan over videosamtale
-language: nb
+language: no
 date: 2017-08-29
 ---
 
