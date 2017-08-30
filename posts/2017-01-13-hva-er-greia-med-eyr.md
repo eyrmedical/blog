@@ -14,6 +14,7 @@ image_desc: Menglad omringet av hennes ni møyer, inkludert Eir
 
 ## Vi var lei av lange køer på venterommet. Lei av å ta fri fra jobben for den minste lille ting hos fastlegen. Lei av useriøse leger i utlandet når minstemann ble matforgifta på sydenturen. 
 
+
 #### Derfor skapte vi Eyr – så legen kunne komme til oss istedenfor.
 
 Ved hjelp av en videosamtale på telefonen er legebesøket gjort i en fei, enten det er fra kontoret, sofakroken, eller solstolen på Mallorca. Dermed har du tryggheten med deg hele tiden, og kan få hjelp fra norske leger uansett hvor i verden du befinner deg. 
@@ -21,6 +22,7 @@ Ved hjelp av en videosamtale på telefonen er legebesøket gjort i en fei, enten
 For det er faktisk ikke sånn at du trenger å være fysisk tilstede hos legen for alle mulige ting. 
 
 Har du utslett, insektbitt, urinveisinfeksjon, trenger å fornye en resept eller få en legeerklæring? Ja, så holder det ofte med en videosamtale. Du kan stille spørsmål, vise symptomer, få henvisninger og resepter via online legetime. 
+
 
 
 #### Raskt, enkelt og sikkert
@@ -38,6 +40,7 @@ For deg som bor i bygda kan det derimot være lange kjøreturer til nærmeste le
 Ikke bare er det dyrere for helsenorge, men mange lever i uvisshet over hva som er galt. 
 
 Legetimer over video kan hjelpe deg som bor i distriktene med å komme i kontakt med lokale allmennleger og spesialister. Det å kunne komme lett i kontakt med leger kan utgjøre en stor forskjell for den generelle helsen og velferden på små steder.
+
 
 
 #### Hvorfor valgte vi navnet «Eyr»?
