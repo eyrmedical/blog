@@ -4,8 +4,6 @@ title: Lar du forkjølelsen ta knekken på karakteren?
 description: Legeerklæring over videosamtale på Eyr Online Doktor
 language: no
 date: 2017-08-29
-image: https://res.cloudinary.com/eyr/image/upload/v1489423171/1-lIma_Lenndfa30XaIPQ9iw_k4amqf.jpg
-image_desc: Menglad omringet av hennes ni møyer, inkludert Eir
 ---
 
 # Lar du forkjølelsen ta knekken på karakteren?
