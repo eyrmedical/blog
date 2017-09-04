@@ -22,7 +22,7 @@ Fraværsgrensen går ut på at dersom en elev er borte i mer enn 10 prosent av t
 
 I følge [Utdanningsdirektoratet](https://www.udir.no/regelverk-og-tilsyn/finn-regelverk/etter-tema/Vitnemal/fravarsgrense---udir-3-2016/hva-omfattes-av-fravarsgrensen/#skal-fravaret-unntas-ma-det-dokumenteres) må fravær av helsegrunner i utgangspunktet dokumenteres med legeerklæring eller med dokumentasjon fra annen sakkyndig, som for eksempel tannlege, psykolog eller fysioterapeut. Det står også at: 
 
-*“Sykdom som etter sin art gjør det vanskelig eller lite hensiktsmessig å oppsøke sakkyndig for hvert enkelt tilfelle, kan dokumenteres med egenmelding i kombinasjon med annen type dokumentasjon. Slik annen type dokumentasjon kan for eksempel være erklæring som godtgjør at eleven har en kronisk sykdom, eller dokumentasjon som viser at eleven er under utredning eller oppfølging for udiagnostisert sykdom. Det er rektor som avgjør om den fremlagte dokumentasjonen er egnet, eller om det er behov for annen type dokumentasjon.”*
+> “Sykdom som etter sin art gjør det vanskelig eller lite hensiktsmessig å oppsøke sakkyndig for hvert enkelt tilfelle, kan dokumenteres med egenmelding i kombinasjon med annen type dokumentasjon. Slik annen type dokumentasjon kan for eksempel være erklæring som godtgjør at eleven har en kronisk sykdom, eller dokumentasjon som viser at eleven er under utredning eller oppfølging for udiagnostisert sykdom. Det er rektor som avgjør om den fremlagte dokumentasjonen er egnet, eller om det er behov for annen type dokumentasjon.”
 
 
 #### Dropp venterommet – ta legetimen fra sengen
