@@ -3,6 +3,8 @@ published: true
 title: Lar du forkjølelsen ta knekken på karakteren?
 description: Legeerklæring over videosamtale på Eyr Online Doktor
 language: no
+image: https://res.cloudinary.com/eyr/image/upload/c_scale,w_1600/v1506117352/damian-zaleski-843_pgdaag.jpg
+image_desc: Hvordan få legeerklæring
 date: 2017-08-29
 ---
 
